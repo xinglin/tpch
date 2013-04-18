@@ -23,5 +23,6 @@ them work with MYSQL. Tested for Ver 14.14 Distrib 5.5.29.
 
 Changes
   - [dss.ddl] table name from capital to lower case 
-  - [dss.ri] database name and table names from capital to lower case
+  - [dss.ri] database name and table names from capital to lower case;
+	     added the key name in the primary table for creating foreign keys.
   - [queries/13.sql] 
